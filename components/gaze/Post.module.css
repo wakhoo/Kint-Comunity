@@ -1,0 +1,41 @@
+.box{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+   width: 100%;
+}
+.box2{
+    border: solid 3px;
+    width: 98%;
+    border-radius: 15px;
+    margin: 5px 0px;
+    border-color: coral;
+    padding: 10px;
+}
+.t_name{
+color: coral;
+font-weight: bold;
+font-size: larger;
+}
+.description{
+color: coral;
+font-size: small;
+}
+.tagbox{
+    display: flex;
+    flex-direction: row;
+}
+.tag{
+    background-color: #ffaa8b;
+    margin:3px;
+    border-radius: 5px;
+    padding: 2px;
+    color: white;
+
+}
+
+.imgg:hover{
+    width:300px;
+    height:200px;
+    background-color: #ffaa8b;
+}

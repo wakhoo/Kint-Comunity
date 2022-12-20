@@ -1,0 +1,8 @@
+.mainBox{
+    display: flex;
+    flex-direction: row;
+    width: 99%;
+}
+.main{
+    width: 100%;
+}

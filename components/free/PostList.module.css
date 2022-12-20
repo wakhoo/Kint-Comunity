@@ -1,0 +1,22 @@
+.box{
+    border: solid 3px;
+    width: 100%;
+    border-radius: 15px;
+    margin: 5px;
+    border-color: coral;
+    padding: 10px;
+}
+.writeBtn{
+    background-color: coral;
+    margin: 0px 40px;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+.lire{
+    display: flex;
+    flex-direction: column-reverse;
+}

@@ -1,0 +1,10 @@
+
+.header{
+    color: coral;
+    width: 100%;
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
